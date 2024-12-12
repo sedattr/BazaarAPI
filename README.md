@@ -1,0 +1,2 @@
+# BazaarAPI
+ API for DeluxeBazaar
